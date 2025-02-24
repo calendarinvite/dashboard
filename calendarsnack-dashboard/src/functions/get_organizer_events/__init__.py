@@ -1,0 +1,1 @@
+"""Get Organizer Events Application."""
